@@ -38,10 +38,10 @@ body {
     font-size: 1vw;
     transition: transform 300ms ease-in-out;
 }
-
-.cartao__conteudo p {
-    margin-top: 1rem;
-    padding: 2rem;
+        .cartao__conteudo p{
+  margin-top: 1rem;
+  padding: 2rem;
+   margin-top: 4rem;
 }
 
 .cartao__conteudo__pergunta p {
@@ -66,8 +66,13 @@ body {
     height: 100%;
     width: 100%;
 }
+ .cartao__conteudo
+
 
 .cartao__conteudo__resposta {
     transform: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
+
+
+
